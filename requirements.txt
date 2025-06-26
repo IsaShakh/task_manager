@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy>=2.0
+asyncpg
+alembic
+pydantic
+python-dotenv
+pika
+pytest
+pydantic-settings
+dotenv
+psycopg2-binary
+pytest
+pytest-asyncio
+httpx
